@@ -186,7 +186,9 @@ export default function Navbar({ user }: NavbarProps) {
                     <Button
                       variant="flat"
                       className="p-0 bg-white/60 border border-white/70 min-w-0 rounded-full shadow-sm"
-                      endContent={<ChevronDown className="h-4 w-4 ml-2 text-slate-600" />}
+                      endContent={
+                        <ChevronDown className="h-4 w-4 ml-2 text-slate-600" />
+                      }
                     >
                       <div className="flex items-center gap-2">
                         <Avatar

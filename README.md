@@ -1,6 +1,6 @@
 ## Droply
 
-A Dropbox-style image storage app built with Next.js 14, Clerk auth, ImageKit media storage/transformations, and Drizzle + Neon for persistence.
+A Dropbox-style image storage app built with Next.js 16, Clerk auth, ImageKit media storage/transformations, and Drizzle + Neon for persistence.
 
 ### Quick Start
 1. Install deps: `npm install`
